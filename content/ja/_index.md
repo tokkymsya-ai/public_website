@@ -37,6 +37,10 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
 {{< accordion-item title="LATEST NEWS" show="true" >}}
 
+{{< badge title="2026-11-10" >}}
+
+* [広域シャトルバス](/travel/wide_area_shuttle_bus)のご案内 (事前予告)
+
 {{< badge title="2026-10-15" >}}
 
 * [パブリックレースのページ](joint_events/public_race)を開設しました。メニューバーの「関連イベント」からアクセスできます。

@@ -37,6 +37,11 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
 {{< accordion-item title="LATEST NEWS" show="true" >}}
 
+{{< badge title="10 Nov. 2026" >}}
+
+* [廣域接駁巴士](/travel/wide_area_shuttle_bus)指南（事前預告）
+
+
 {{< badge title="10 Sep. 2026" >}}
 
 * Added Informations of [住宿和交通](travel)

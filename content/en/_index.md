@@ -37,7 +37,13 @@ content_blocks:
 {{< accordion id="accordion-flush" class="accordion-flush" >}}
 {{< accordion-item title="LATEST NEWS" show="true" >}}
 
-{{< badge title="2026-10-15" >}}
+
+{{< badge title="Nov. 10 2026" >}}
+
+* Information for [WIDE AREA SHUTTLE BUS](/travel/wide_area_shuttle_bus) (Advanced notice)
+
+
+{{< badge title="15 Oct. 2026" >}}
 
 * We have created a [page for public races](joint_events/public_race). You can access it from "SIDE EVENTS" in the menu bar.
 * We have released [Bulletin1 for a public race.](joint_events/public_race/bulletins)
