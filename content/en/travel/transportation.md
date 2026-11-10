@@ -69,10 +69,10 @@ The operating schedule (timetable) will be announced on the event website after 
 You may be assigned a specific bus to use based on your start time on the day of the event.
 
 ---
-Official Bus Route (See page 34 of the PDF below.)<br>
+Official Bus Route<br>
 {{< fas file-pdf fa-2xl >}}
 {{< pdf-modal 
- file="/Accommodation_Transportation/Accommodation_Information_Sept_2026.pdf" 
+ file="/Transportation within the competition host region.pdf" 
     title="Download" 
     id="accommodation_information" 
 >}}

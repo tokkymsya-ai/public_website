@@ -60,11 +60,11 @@ id="Public_Transportation"
 
 此外，鉢北住宿區（鉢北觀光協會）和鉢高原（鉢高原交流促進中心）也被指定為巴士出發點，供入住這些區域的乘客使用。活動當天，巴士將在這些出發點和活動場地之間運行。請注意，巴士路線會根據活動日期有所不同。由於巴士路線會根據住宿地點而有所不同，因此營運時刻表將在報名截止日期後在活動網站上公佈。您可能會根據活動當天的出發時間被分配乘坐特定的巴士。
 
-官方巴士路線（請參閱下方 PDF 文件第 34 頁。）
+官方巴士路線
 
 {{< fas file-pdf fa-2xl >}}
 {{< pdf-modal
-file="/Accommodation_Transportation/Accommodation_Information_Sept_2026.pdf"
-title="下載"
-id="accommodation_information"
+ file="/Transportation within the competition host region.pdf" 
+    title="Download" 
+    id="accommodation_information" 
 >}}
