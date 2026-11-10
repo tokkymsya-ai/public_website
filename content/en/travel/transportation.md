@@ -29,11 +29,25 @@ Public Transportation<br>
 
 For details on JR (Japan Railways) discount passes, visit the page below<br>
 
+## Japan Railway Exclusive Travel Pass
+
+This is an announcement regarding the "WMG2027 JR Kansai Wide Area Pass," a WMG-exclusive transportation pass offered by Japan Railway. It covers the entire Kansai region, making it convenient for accessing areas such as Kansai International Airport (KIX).
+
 {{< button icon="fas train" cue=false order="last" href="/travel/jr_transport_pass" >}}
     EXCLUSIVE TRAVEL PASSES
 {{< /button >}}
 
-## Official Bus Service for Reservations Holders
+## Wide area shuttle bus
+
+For those who are unable to book accommodation near the competition venue, we will provide information about the wide-area shuttle bus service from major cities located a moderate distance away to the venue.
+
+
+{{< button icon="fas bus" cue=false order="last" href="/travel/wide_area_shuttle_bus" >}}
+    WIDE AREA SHUTTLE BUS
+{{< /button >}}
+
+
+## Official Bus Service (for Reservations Holders)
 
 The organisers plan to operate official buses connecting JR railway stations, accommodation areas, and the event venue.
 

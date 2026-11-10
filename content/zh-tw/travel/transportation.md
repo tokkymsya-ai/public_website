@@ -28,13 +28,26 @@ title="下載"
 id="Public_Transportation"
 >}}
 
-有關JR（日本鐵路）優惠通票的詳情，請瀏覽以下頁面<br>
+
+## JR關西廣域鐵路周遊券
+
+此為JR專為WMG（世界壯年運動會）推出的限定交通票券「WMG2027 JR關西廣域鐵路周遊券」相關公告。本票券涵蓋整個關西地區，無論是前往關西國際機場（KIX）或各地移動皆十分便利。
+
+詳情請參閱下方的「WMG2027 JR關西廣域鐵路周遊券」介紹頁面。
 
 {{< button icon="fas train" cue=false order="last" href="/travel/jr_transport_pass" >}}
+    WMG2027 JR關西廣域鐵路周遊券指南
+{{< /button >}}
 
-專屬旅行通票
+## 廣域接駁巴士
 
-{{</button >}}
+針對無法預約到比賽會場附近住宿的選手與參加者，我們提供從鄰近主要城市往返會場的廣域接駁巴士服務相關資訊。
+
+{{< button icon="fas bus" cue=false order="last" href="/travel/wide_area_shuttle_bus" >}}
+    廣域接駁巴士指南
+{{< /button >}}
+
+
 
 ## 預訂持有者的官方巴士服務
 
