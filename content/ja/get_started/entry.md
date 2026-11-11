@@ -8,7 +8,7 @@ modules: ["mermaid"]
 # エントリー手順書
 このページのエントリー手順をPDFで簡潔にまとめています。まずはこちらをご覧ください。
 {{< fas file-pdf fa-2xl >}}
-{{< pdf-modal file="/entry_manual_1026.pdf" title="Open" id="entry_manual" >}}
+{{< pdf-modal file="/entry_manual_1111.pdf" title="Open" id="entry_manual" >}}
 
 # 実施要項
 
